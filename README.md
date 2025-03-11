@@ -12,7 +12,11 @@
 - 🏆 **Next 40 Users:** $20 each  
 - 🏆 **Top 10 Lucky Winners:** Special BTC rewards  
 
-## 🚀 Roadmap
+
+💰 **Monthly Rewards Before Airdrop Distribution!**  
+Before the final **$500 Million Airdrop**, users will receive **monthly rewards** 
+#
+# 🚀 Roadmap
 ### Phase 1: Backend & Smart Contract Development
 - Wallet Authentication & Mining Algorithm  
 - Smart Contract Deployment on Testnet  
