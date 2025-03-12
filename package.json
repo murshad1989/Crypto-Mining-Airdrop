@@ -1,0 +1,27 @@
+{
+  "name": "crypto-mining-airdrop",
+  "version": "1.0.0",
+  "description": "**A unique Web3-based mining airdrop project distributing up to 50,000 BTC!**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "const apiKey = process.env.GITHUB_API_KEY;"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/murshad1989/Crypto-Mining-Airdrop/issues"
+  },
+  "homepage": "https://github.com/murshad1989/Crypto-Mining-Airdrop#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mysql2": "^3.13.0",
+    "nodemon": "^3.1.9"
+  }
+}
